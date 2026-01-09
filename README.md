@@ -1,2 +1,2 @@
 # military-aircraft-tracker
-military-aircraft-tracker-com
+military-aircraft-tracker.com
