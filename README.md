@@ -2,7 +2,7 @@
 
 **Real-time intelligence platform for tracking government, military, and VIP aircraft worldwide.**
 
-[![Website](https://img.shields.io/badge/Website-military-aircraft-tracker.com-00ff00?style=flat-square)](https://military-aircraft-tracker.com)
+[![Website](https://img.shields.io/badge/Website--military--aircraft--tracker.com-00ff00?style=flat-square)](https://military-aircraft-tracker.com)
 [![Data Source](https://img.shields.io/badge/Data-ADSB.One-blue?style=flat-square)](https://adsb.one)
 [![Aircraft DB](https://img.shields.io/badge/Aircraft%20DB-28%2C000%2B-orange?style=flat-square)](https://military-aircraft-tracker.com/search)
 [![Locations](https://img.shields.io/badge/Sensitive%20Locations-420%2B-red?style=flat-square)](https://military-aircraft-tracker.com/locations)
